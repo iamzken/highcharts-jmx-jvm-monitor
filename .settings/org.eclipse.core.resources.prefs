@@ -1,0 +1,5 @@
+#Wed Jul 20 14:44:37 CST 2016
+eclipse.preferences.version=1
+encoding//WebRoot/WEB-INF/jsp/hello.jsp=UTF-8
+encoding//WebRoot/index.jsp=UTF-8
+encoding//src/com/iamzken/controller/HelloContorller.java=gbk
